@@ -1,4 +1,4 @@
-# ![logo](https://imgur.com/9AtfHR0.png)
+![logo](https://imgur.com/9AtfHR0.png)
 # 倒數計時自動關機
 為了楓之谷的深淵遠征隊活動而做的，方便設定定時關機，僅使用Windows關機排程。
 # 使用說明
